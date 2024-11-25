@@ -1,15 +1,20 @@
-Updated 
+New routes 
 
-Register.html
+def recover_password():
+    
+def verify_reset_otp():
+  .
+def security_question():
+   
+def reset_password():
 
-app.register
+Updated html files
 
-app.login route
+recover_password.html
 
-app.verify email route
+verify_reset_otp.html
 
-new files
+security_question.html
 
-register.css
+reset_password.html
 
-register.js
