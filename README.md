@@ -3,7 +3,7 @@ New routes
 def recover_password():
     
 def verify_reset_otp():
-  .
+  
 def security_question():
    
 def reset_password():
